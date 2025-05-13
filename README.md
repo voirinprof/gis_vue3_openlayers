@@ -81,13 +81,15 @@ Changes are sent via WFS-T (Insert, Update, Delete) to the WFS backend.
 
 This demo does not include authentication. In a production environment, use appropriate authentication and authorization mechanisms.
 
-### 📍 Example Screenshot
+### Screenshots
 
+![Map Editor Screenshot](vue3-ol-1.png)
+![Map Editor Screenshot](vue3-ol-2.png)
 ![Map Editor Screenshot](ol-vue3.gif)
 
 ---
 
-### 🙌 Acknowledgments
+### Links
 
 * [vue3-openlayers Examples](https://vue3openlayers.netlify.app/get-started.html)
 * [GeoServer WFS-T Guide](https://docs.geoserver.org/stable/en/user/services/wfs/transactions.html)
